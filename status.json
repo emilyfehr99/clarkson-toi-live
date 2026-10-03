@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:24:51.408098+00:00",
+  "updated_at": "2026-10-03T01:35:04.982473+00:00",
   "games": {
     "48d1d66f-0466-44ae-8987-278e8c64a996": {
       "ready_periods": [
@@ -27,10 +27,10 @@
           "filename": "clarkson_intermission_toi_48d1d66f-0466-44ae-8987-278e8c64a996_p3.xlsx"
         }
       ],
-      "progress": "intermission",
+      "progress": "ended",
       "intermission_through_period": 3,
-      "phase": "intermission",
-      "active": true,
+      "phase": "final",
+      "active": false,
       "score": "3-2"
     }
   }
