@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-10-03T00:05:05.778856+00:00",
+  "updated_at": "2026-10-03T00:05:56.837141+00:00",
   "games": {
     "48d1d66f-0466-44ae-8987-278e8c64a996": {
       "ready_periods": [
         1,
-        2
+        2,
+        3
       ],
       "reports": [
         {
@@ -18,10 +19,16 @@
           "label": "Period 2 TOI",
           "url": "https://raw.githubusercontent.com/emilyfehr99/clarkson-toi-live/main/clarkson_intermission_toi_48d1d66f-0466-44ae-8987-278e8c64a996_p2.xlsx",
           "filename": "clarkson_intermission_toi_48d1d66f-0466-44ae-8987-278e8c64a996_p2.xlsx"
+        },
+        {
+          "period": 3,
+          "label": "Period 3 TOI",
+          "url": "https://raw.githubusercontent.com/emilyfehr99/clarkson-toi-live/main/clarkson_intermission_toi_48d1d66f-0466-44ae-8987-278e8c64a996_p3.xlsx",
+          "filename": "clarkson_intermission_toi_48d1d66f-0466-44ae-8987-278e8c64a996_p3.xlsx"
         }
       ],
       "progress": "intermission",
-      "intermission_through_period": 2,
+      "intermission_through_period": 3,
       "phase": "intermission",
       "active": true
     }
